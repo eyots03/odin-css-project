@@ -82,6 +82,7 @@ body {
 .middle {
     background-color: white;
     width: 1000px;
+    height: 1200px;
     margin: auto;
     margin-top: 0px;
 }
@@ -168,5 +169,19 @@ body {
     border-radius: 10px;
     outline: 0;
     width: 120px;
+    color: white;
+}
+
+.foot {
+    background-color: #1F2937;
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.foot p {
     color: white;
 }
